@@ -7,7 +7,7 @@
 # Bruno Gomes
 <sub>*Cientista de Dados* nas horas vagas.</sub>
 
-Analista de Sistemas há mais de 15 anos da FGV, passei a gostar muito de Data Science depois de um MBA em Tecnologia para Negócios: AI, Data Science e Big Data que fiz na PUC e desde então, tenho estudado bastante e aplicado na empresa onde trabalho.
+Analista de Sistemas há mais de 20 anos da FGV, passei a gostar muito de Data Science depois de um MBA em Tecnologia para Negócios: AI, Data Science e Big Data que fiz na PUC e desde então, tenho estudado bastante e aplicado na empresa onde trabalho.
 
 Sempre trabalhei com programação, especificamente com Asp Net e banco de dados SQL e Oracle e hoje busco me aprofundar em Pyhton e todo esse mundo novo de Data Science.
 
